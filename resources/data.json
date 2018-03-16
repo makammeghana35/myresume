@@ -1,0 +1,22 @@
+{
+  "basic":{
+    "objective":"To be a professional and dedicated employee in a company that I can provide with my extensive technical skills and experience"
+  },
+"education":[
+  {
+    "degree":"b-tech(computer sceince of enginerring)",
+    "college":"klmcew",
+    "data":["2015-19","75%"]
+  },
+  {
+    "degree":"intermediate",
+    "college":"narayana junior college",
+    "data":["2012-13","75%"]
+  },
+  {
+    "degree":"ssc",
+    "college":"sri sai krishna english medium high school",
+    "data":["2010-12","75%"]
+  }
+]
+}
